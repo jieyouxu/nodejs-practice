@@ -14,7 +14,7 @@ const server = net.createServer(connection => {
 
     const timer = setTimeout(() => {
         connection.write(secondChunk);
-        conection.end();
+        connection.end();
     }, 100);
 
     connection.on("end", () => {
