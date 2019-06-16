@@ -8,5 +8,8 @@
   "private": true,
   "devDependencies": {
     "mocha": "6.1.4"
+  },
+  "dependencies": {
+    "zeromq": "5.1.0"
   }
 }
