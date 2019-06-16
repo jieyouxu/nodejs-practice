@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "\"Node.js Practice\"",
+  "main": "index.js",
+  "author": "许杰友 Jieyou Xu (Joe) <jieyouxu@outlook.com>",
+  "license": "MIT",
+  "private": true
+}
